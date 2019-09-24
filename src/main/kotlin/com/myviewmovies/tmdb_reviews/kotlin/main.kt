@@ -6,7 +6,7 @@ import retrofit2.Response
 
 const val REQUEST_LIMIT = 40
 const val MOVIES_PER_PAGE = 20
-const val PAGES_TO_FETCH = 1000
+const val PAGES_TO_FETCH = 50
 
 fun main() {
     //fetch popular movies and store them to DataList
