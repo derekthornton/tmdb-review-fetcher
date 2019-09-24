@@ -2,6 +2,8 @@
 
 TMDB Review Fetcher uses Kotlin with a Gradle interface to make calls to the TMDB API (https://developers.themoviedb.org/3), and store/print the data. Its current functionality allows it to find and store movie reviews for hundreds to thousands of the most popular movies (which is not currently a service which TMDB currently offers without third-party implementation).
 
+TMDB Review Fetcher was built and runs well on IntelliJ IDEA.
+
 
 ## Main Code
 
